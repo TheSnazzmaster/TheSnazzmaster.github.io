@@ -1,11 +1,12 @@
 h1 {
   font-family:'Black Ops One';
   font-size:75px;
-  letter-spacing:3px;
+  letter-spacing:20px;
 }
 
 p,
 h2,
 li {
   font-family:'Black Ops One';
+  color:red;
 }
