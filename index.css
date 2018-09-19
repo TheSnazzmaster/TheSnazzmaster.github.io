@@ -14,3 +14,9 @@ li {
 h3 {
   font-family:'Permanent Marker';
 }
+
+.cap {
+  font-family:'Black Ops One';
+  border: 3px solid black;
+  border-radius: 5px;
+}
