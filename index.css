@@ -29,15 +29,11 @@ h3 {
   text-width: 150%;
 }
 
-.godzilla  {
-  overflow: hidden;
-}
-
 .godzilla img {
  width: 95%;
+ height: auto;
  padding: 0 50px;
  float: left;
- background: #828DAD;
 }
 
 .ptrt {
