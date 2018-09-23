@@ -42,5 +42,9 @@ h3 {
 }
 
 .ptrt {
-  transform :rotate(90deg)
+  transform :rotate(90deg);
+}
+
+#godzilla-title {
+  margin-bottom: 50px;
 }
