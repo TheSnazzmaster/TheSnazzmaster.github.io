@@ -1,3 +1,6 @@
+Hey idk if you remember me but this is SimplyKomplex from scratch. Whenever you see this please contact me on discord heccing_commie#5508
+
+
 function UnityProgress(unityInstance, progress) {
   if (!unityInstance.Module)
     return;
